@@ -14,6 +14,8 @@
     
     * Images/: Contiene imágenes usadas en este archivo Markdown.
 
+    * Modelo/ : Contiene los modelos predictivo de este proyecto.
+
     * notebooks/: son archivos jupyter notebook usados en todo el proceso.
 
 ------
